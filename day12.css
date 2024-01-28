@@ -1,0 +1,51 @@
+.ho-img:hover{
+    transform: scale(2);
+    overflow: hidden;
+    transform: rotate(60deg);
+    transition: .50s;
+}
+.ho-col:hover{
+overflow: hidden;
+}
+.c-tag{
+    border-bottom: 1px solid #ddd;
+    border-width: 80px;
+    line-height: 20px;
+}
+.btn{
+    visibility: visible;imprtent
+}
+.ex-b{
+    border:1px solid #ddd;important
+    padding:10px 15px;important
+
+    background-color: #fff;important
+
+    
+}
+.h-s{
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
+.btn-b{
+    color: #fff;
+    padding: 30px 60px;
+    background-color: blue;
+
+}
+.btn-b:hover{
+    background-color: aqua;
+}
+.i-box h6{
+letter-spacing: 3px;
+font-weight: 300;
+}
+.i-box:hover{
+    background-color: #fff;important
+}
+
+.btn-b button{
+    background-color:#013a96
+    ;
+}
